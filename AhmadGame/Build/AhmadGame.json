@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "3_Project_boost",
+"dataUrl": "AhmadGame.data.unityweb",
+"wasmCodeUrl": "AhmadGame.wasm.code.unityweb",
+"wasmFrameworkUrl": "AhmadGame.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
